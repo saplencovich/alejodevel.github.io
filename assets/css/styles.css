@@ -173,6 +173,18 @@ main > .container-fluid > .row > div {
   background-color: #f39c12;
 }
 
+.fill.ninety-five {
+  width: 95%;
+}
+
+.fill.ninety {
+  width: 90%;
+}
+
+.fill.eighty-five {
+  width: 85%;
+}
+
 .fill.three-quarters {
   width: 75%;
   background-color: #f39c12;
